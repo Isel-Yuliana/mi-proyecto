@@ -1,1 +1,1 @@
-console.log('Hola desde una nueva funcionalidad');
+console.log('Cambio desde GitHub');
